@@ -16,9 +16,6 @@ Key Features:
 ● Media Gallery: A visual showcase of the gym’s modern facilities and energetic community.
 ● Contact & Inquiry Forms: Simple ways for visitors to connect with the gym team or request more information.
 
-## Demo
-
-![vCard Desktop Demo](./2.png")
 
 ## Contact
 
