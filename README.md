@@ -15,3 +15,12 @@ Key Features:
 ● Interactive Sections: Easy navigation through membership plans, schedules, and exclusive fitness programs.
 ● Media Gallery: A visual showcase of the gym’s modern facilities and energetic community.
 ● Contact & Inquiry Forms: Simple ways for visitors to connect with the gym team or request more information.
+
+## Demo
+
+![vCard Desktop Demo](./https://diziver.com/assets/imgs/websites/2.jpg")
+![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+
+## Contact
+
+If you want to contact me you can reach me at [Website](https://www.saurjya.in).
