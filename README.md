@@ -18,9 +18,8 @@ Key Features:
 
 ## Demo
 
-![vCard Desktop Demo](./https://diziver.com/assets/imgs/websites/2.jpg")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![vCard Desktop Demo](./2.png")
 
 ## Contact
 
-If you want to contact me you can reach me at [Website](https://www.saurjya.in).
+If you want to contact me you can reach me at my [Website](https://www.saurjya.in)
