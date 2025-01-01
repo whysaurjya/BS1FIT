@@ -14,7 +14,7 @@ Key Features:
 ● Service Overview: Highlights the hybrid gym offerings, including functional training, group classes, and personal coaching.
 ● Interactive Sections: Easy navigation through membership plans, schedules, and exclusive fitness programs.
 ● Media Gallery: A visual showcase of the gym’s modern facilities and energetic community.
-● Contact & Inquiry Forms: Simple ways for visitors to connect with the gym team or request more information.
+● Contact & Inquiry Forms: Simple ways for visitors to connect with the gym team or request more information
 
 
 ## Contact
